@@ -26,6 +26,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 8. Migrate the database with the command line "php artisan migrate"
 9. Seed the database for clients with the command line "php artisan db:seed --class=CashiersTableSeeder"
-10. Run the command line "npm intall"
+10. Run the command line "npm install"
 11. Run the command line "npm run dev" to compile react app
 12. Run server with the command line "php artisan serve"
